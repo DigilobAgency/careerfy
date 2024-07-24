@@ -1,0 +1,4 @@
+[18-May-2024 17:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_is_mobile() in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/templates/jobsearch-full-template.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/templates/jobsearch-full-template.php on line 3

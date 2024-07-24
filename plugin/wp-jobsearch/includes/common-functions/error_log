@@ -1,0 +1,12 @@
+[13-Jul-2024 15:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/includes/common-functions/candidate-functions.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/includes/common-functions/candidate-functions.php on line 55
+[16-Jul-2024 02:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/includes/common-functions/job-functions.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/includes/common-functions/job-functions.php on line 11
+[21-Jul-2024 09:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/includes/common-functions/employer-functions.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/searchte/aristotleteachers.com/wp-content/plugins/wp-jobsearch/includes/common-functions/employer-functions.php on line 118
